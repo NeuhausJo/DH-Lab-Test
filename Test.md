@@ -1,2 +1,2 @@
 # Title
-*cursive text*
+_italic text_
